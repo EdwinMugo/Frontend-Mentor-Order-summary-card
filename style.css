@@ -27,7 +27,7 @@ body{
 }
 
 .background_image{
-    background-image: url(./pattern-background-mobile.svg);
+    background-image: url('pattern-background-mobile.svg');
     background-size: cover;
     background-repeat: no-repeat; 
     backgund-position: center;
@@ -134,7 +134,7 @@ article {
 /* This is the media query for tablets */
 @media (min-width:768px){
 .background_image{
-    background-image: url(./pattern-background-desktop.svg);
+    background-image: url('pattern-background-desktop.svg');
     background-size: cover;
     background-repeat: no-repeat;
     height:50vh;
